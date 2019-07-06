@@ -1,0 +1,17 @@
+﻿totaltabcount=0
+
+
+for line in file:
+	for chardata in line
+		if chardata==" "
+			totaltabcount++;
+
+
+
+
+
+empty empty w
+	
+
+how to build looplogic building
+	
